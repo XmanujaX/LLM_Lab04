@@ -1,0 +1,30 @@
+Generating Base Model answers...
+
+Generating Fine-Tuned Model answers...
+================================================================================
+QUESTION: Do you offer student discounts?
+----------------------------------------
+BASE MODEL:
+Yesuseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruser
+----------------------------------------
+FINE-TUNED MODEL:
+Yes, we offer a 10% discount on all accessories for students with a valid ID.
+================================================================================
+================================================================================
+QUESTION: What is the return policy for laptops?
+----------------------------------------
+BASE MODEL:
+Youuseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruser
+----------------------------------------
+FINE-TUNED MODEL:
+You can return any laptop within 30 days of purchase for a full refund, provided it is in its original packaging.
+================================================================================
+================================================================================
+QUESTION: How long does a custom PC build take?
+----------------------------------------
+BASE MODEL:
+Auseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruseruser
+----------------------------------------
+FINE-TUNED MODEL:
+A custom PC build typically takes 3-5 business days to assemble and test.
+================================================================================
